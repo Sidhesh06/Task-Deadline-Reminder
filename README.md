@@ -27,8 +27,7 @@ Task Deadline Reminder is a simple MicroSaaS tool to help users stay on top of t
 5. Use Postman or cURL to interact with the application.
 
 Screen shots:
-Adding a Task :
-![Sample Image](https://example.com/image.png)
+Adding a Task : "C:\Users\sidhe\OneDrive\Pictures\Screenshots\Screenshot 2024-12-28 165942.png"
 Sending Reminders :
 ![alt text](<Screenshot 2024-12-28 165942-1.png>)
 
