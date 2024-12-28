@@ -28,7 +28,7 @@ Task Deadline Reminder is a simple MicroSaaS tool to help users stay on top of t
 
 Screen shots:
 Adding a Task :
-![alt text](<Screenshot 2024-12-28 171155-1.png>)
+![Sample Image](https://example.com/image.png)
 Sending Reminders :
 ![alt text](<Screenshot 2024-12-28 165942-1.png>)
 
