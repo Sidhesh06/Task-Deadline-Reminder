@@ -24,12 +24,29 @@ Task Deadline Reminder is a simple MicroSaaS tool to help users stay on top of t
 4. Run the application:
    python main.py
 
-5. Use Postman or cURL to interact with the application.
+5. Use Postman to interact with the application.
 
-Screen shots:
-Adding a Task : ![Postman API Request Screenshot](images/Screenshot%202024-12-28%20194638.png)
-Sending Reminders : ![Postman API Request Screenshot](images/Screenshot%202024-12-28%20165942.png)
+# Task Deadline Reminder API
 
+This project provides a REST API for managing tasks and sending reminders. Below are examples of how the API works with Postman.
+
+---
+
+## API Endpoints
+
+### 1. Add Task Endpoint
+The `POST /add_task` endpoint allows you to add a task. Below is an example request and response in Postman:
+
+![Add Task API Request Screenshot](images/Screenshot%202024-12-28%20194638.png)
+
+---
+
+### 2. Send Reminders Endpoint
+The `GET /send_reminders` endpoint sends reminders for tasks. Below is an example request and response in Postman:
+
+![Postman API Request Screenshot](images/Screenshot%202024-12-28%20165942.png)
+
+---
 
 ## Technologies Used
 - Python
