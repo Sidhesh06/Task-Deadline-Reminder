@@ -27,9 +27,9 @@ Task Deadline Reminder is a simple MicroSaaS tool to help users stay on top of t
 5. Use Postman or cURL to interact with the application.
 
 Screen shots:
-Adding a Task : ![Postman API Request Screenshot](images/Screenshot%202024-12-28%20165942.png)
-Sending Reminders :
-![alt text](<Screenshot 2024-12-28 165942-1.png>)
+Adding a Task : ![Postman API Request Screenshot](images/Screenshot%202024-12-28%20194638.png)
+Sending Reminders : ![Postman API Request Screenshot](images/Screenshot%202024-12-28%20165942.png)
+
 
 ## Technologies Used
 - Python
