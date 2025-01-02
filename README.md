@@ -58,5 +58,3 @@ The `GET /send_reminders` endpoint sends reminders for tasks. Below is an exampl
 
 This project is licensed under the MIT License.
 ---
-
-### Let me know if you need help with any of these steps, like configuring GitHub, writing the README, or taking screenshots!
